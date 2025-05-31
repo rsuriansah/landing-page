@@ -1,2 +1,2 @@
 let s = "Welcome!";
-alert(s);
+console.log(s);
